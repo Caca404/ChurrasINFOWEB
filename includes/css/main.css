@@ -1,0 +1,24 @@
+#pessoas_banner{
+    background-image: url("../img/Banner.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    height: 100%;
+
+    text-align: center;
+}
+
+#pessoas_banner h1{
+    color: white;
+    background-color: rgba(15, 15, 15, 0.75);
+}
+
+body{
+    position: relative;
+    background-color: rgb(17, 70, 168);
+    color: white;
+}
+
+.listInfo{
+    margin-top: 10em;
+}
