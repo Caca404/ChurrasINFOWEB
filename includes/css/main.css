@@ -30,3 +30,7 @@ body{
 /* ol {
     counter-reset: item
 } */
+p{
+    font-size: 18px;
+    text-align: justify;
+}
