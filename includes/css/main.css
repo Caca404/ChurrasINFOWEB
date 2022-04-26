@@ -1,5 +1,5 @@
 #pessoas_banner{
-    background-image: url("../img/Banner.jpg");
+    background-image: url("../img/Turma.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: center;
@@ -22,3 +22,11 @@ body{
 .listInfo{
     margin-top: 10em;
 }
+
+/* li:before {
+    content: counters(item, ".") " ";
+    counter-increment: item;
+} */
+/* ol {
+    counter-reset: item
+} */
